@@ -3,6 +3,7 @@
 import Array from "./dsa/Array.js";
 import BinarySearch from "./dsa/BinarySearch.js";
 import LeetCodeArray from "./dsa/LeetCodeArray.js";
+import moveZeroes from "./dsa/MoveZeroes.js";
 import Recursion from "./dsa/Recursion.js";
 import Sorting from "./dsa/Sorting.js";
 import TwoPointerTechnique from "./dsa/TwoPointerTechnique.js";
@@ -47,4 +48,5 @@ const multiTwoNum = (n, m) => {
 // BinarySearch();
 // Sorting();
 // Recursion();
-LeetCodeArray();
+// LeetCodeArray();
+moveZeroes();

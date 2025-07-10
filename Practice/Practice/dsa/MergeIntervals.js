@@ -20,7 +20,5 @@ const MergeIntervals = () => {
       result.push([currStart, currEnd]);
     }
   }
-
-  console.log(result);
 };
 export default MergeIntervals;

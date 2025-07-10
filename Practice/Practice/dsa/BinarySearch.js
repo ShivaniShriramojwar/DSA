@@ -28,8 +28,6 @@ const BinarySearch = () => {
     return -1;
   }
 
-  console.log(binarySearch([1, 3, 5, 7, 9, 11], 7));
-
   // Linear Search – O(n)
   // ✅ Logic:
   // Check each element one by one until you find the target.
