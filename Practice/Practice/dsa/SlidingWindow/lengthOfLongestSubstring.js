@@ -1,3 +1,5 @@
+// sliding window problem
+
 const lengthOfLongestSubstring = () => {
   function longestSubstring(s) {
     let charIndexMap = new Map();

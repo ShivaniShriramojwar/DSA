@@ -51,4 +51,6 @@ const TwoPointerTechnique = () => {
   console.log(isPalindrome("racecar")); // true
   console.log(isPalindrome("hello")); // false
 };
+
+//  Remove Duplicate from sorted array
 export default TwoPointerTechnique;
